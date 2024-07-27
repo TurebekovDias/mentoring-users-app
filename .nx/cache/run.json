@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run-many --target=build",
+    "startTime": "2024-07-24T09:04:46.285Z",
+    "endTime": "2024-07-24T09:04:47.933Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "article-read:build:production",
+      "target": "build",
+      "projectName": "article-read",
+      "hash": "8275990662379300249",
+      "startTime": "2024-07-24T09:04:46.294Z",
+      "endTime": "2024-07-24T09:04:47.930Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

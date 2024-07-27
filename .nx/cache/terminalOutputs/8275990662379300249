@@ -1,0 +1,3 @@
+[34mBuilding Angular Package[39m
+[1m[31m[91merror[0m[90m TS5012: [0mCannot read file 'C:/Users/diasd/mentoring-users-app-1/tsconfig.json': ENOENT: no such file or directory, open 'C:\Users\diasd\mentoring-users-app-1\tsconfig.json'.[39m[22m
+[1m[31m[39m[22m
